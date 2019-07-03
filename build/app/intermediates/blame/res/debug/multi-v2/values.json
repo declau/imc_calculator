@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/denis/AndroidStudioProjects/calculadora_imc/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/home/denis/Desktop/estudo-projetos/imc_calculator/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/home/denis/AndroidStudioProjects/calculadora_imc/android/app/src/main/res/values/styles.xml",
+                    "source": "/home/denis/Desktop/estudo-projetos/imc_calculator/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
